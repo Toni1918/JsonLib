@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApiTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-06-03T14:16:47" hostname="DESKTOP-9JQLUHE" time="0.102">
+  <properties/>
+  <testcase name="testArgs()" classname="ApiTest" time="0.078"/>
+  <testcase name="testInts()" classname="ApiTest" time="0.006"/>
+  <testcase name="testPair()" classname="ApiTest" time="0.003"/>
+  <testcase name="testPath()" classname="ApiTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
